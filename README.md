@@ -1,7 +1,5 @@
 
-# Título do Projeto
-
-HTMXPRESS
+# HTMXPRESS
 
 
 ## Stack utilizada
